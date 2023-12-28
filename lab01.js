@@ -10,3 +10,4 @@ function Max(a,b){
     return a> b ? a:b;
 }
 console.log ('So lon nhat: '+Max(a,Max(b,c)));
+// sao luu len github
